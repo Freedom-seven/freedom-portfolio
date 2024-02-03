@@ -10,7 +10,7 @@ const Logo = () => {
       <MotionLink
         href="/"
         className="w-20 h-20 bg-dark text-light flex items-center justify-center 
-        rounded-full text-2x1 font-bold
+        rounded-full text-2x1 font-bold border border-solid border-transparent dark:border-light
         "
         whileHover={{
           backgroundColor: [
